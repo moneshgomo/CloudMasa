@@ -108,3 +108,4 @@ rm: cannot remove 'DiamondPattern.class': Permission denied
 monesh@GOMO:~/Intern/ShellScripting_Task_1$
 
 ```
+
