@@ -7,6 +7,7 @@
 **Date:** February 23, 2026  
 **Author:** Monesh <br>
 **Developer Preference:** [moneshgomon8n.netlify.app](https://moneshgomon8n.netlify.app)   
+**PPT** : [view here](https://app.presentations.ai/view/K2qkFWvDfp)
 
 ---
 
