@@ -1,4 +1,6 @@
 - Git
 - Linux
 - Docker
-- K8s
+- n8n
+- AWS
+- IaC
